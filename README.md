@@ -4,7 +4,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Trevor-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/trevor-campbell-a9188624a/)
   
-[![Portfolio View](https://img.shields.io/badge/Portfolio-View-blue)]([https://your-portfolio-url.com](https://trev-portfolio.netlify.app/))
+[![Portfolio View](https://img.shields.io/badge/Portfolio-View-blue)](https://trev-portfolio.netlify.app/)
 
   
  </div>
