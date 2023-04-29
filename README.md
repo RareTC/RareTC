@@ -5,8 +5,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Trevor-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/trevor-campbell-a9188624a/)
   
 [![Portfolio View](https://img.shields.io/badge/Portfolio-View-blue)](https://trev-portfolio.netlify.app/)
-
   
+
+
  </div>
 
 
@@ -20,5 +21,8 @@ I thoroughly enjoy putting my skills to work and developing new projects, and pa
     <img src="https://skillicons.dev/icons?i=react,js,postgres,nodejs,django,mongodb,html,css,vscode,replit,materialui,heroku,github," />
   </a>
 </p>
-  
 
+
+<h2 align="left">📖Working On</h2>
+ Currently I am working on a new Side Project to generate README's easily <a href="https://github.com/RareTC/makeme"><img alt="View Here" src="https://img.shields.io/badge/View%20on-GitHub-brightgreen"></a>, DSA's, and looking to land my next role in this exciting field!
+ 
