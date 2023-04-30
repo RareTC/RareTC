@@ -1,12 +1,10 @@
 <div id="description" align="center">
+ <img src="https://i.imgur.com/pKCxFJr.png" title="source: imgur.com" height="180px" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Trevor</h1>
 <h3 align="center">An inquisitive developer eager to learn more.</h3>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Trevor-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/trevor-campbell-a9188624a/)
-  
-[![Portfolio View](https://img.shields.io/badge/Portfolio-View-blue)](https://trev-portfolio.netlify.app/)
-  
-
+[![LinkedIn Badge](https://img.shields.io/badge/-Trevor-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/trevor-campbell-a9188624a/) [![Portfolio View](https://img.shields.io/badge/Portfolio-View-blue)](https://trev-portfolio.netlify.app/)
 
  </div>
 
