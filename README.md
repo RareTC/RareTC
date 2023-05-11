@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Trevor</h1>
 <h3 align="center">An inquisitive developer eager to learn more.</h3>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Trevor-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/trevor-campbell-a9188624a/) [![Portfolio View](https://img.shields.io/badge/Portfolio-View-blue)](https://trev-portfolio.netlify.app/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Trevor-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/trevor-campbell-a9188624a/) [![Portfolio View](https://img.shields.io/badge/Portfolio-View-blue)](https://trev-portfolio.netlify.app/) [![Resume](https://img.shields.io/badge/Resume-orange)](https://acrobat.adobe.com/id/urn%3Aaaid%3Asc%3AVA6C2%3A3fad41d3-0300-40e6-b837-a00dae418ae1/?locale=en-US&filetype=application%2Fpdf)
 
  </div>
 
