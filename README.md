@@ -22,5 +22,5 @@ I thoroughly enjoy putting my skills to work and developing new projects, and pa
 
 
 <h2 align="left">📖Working On</h2>
- Currently I am working on a new Side Project to generate README's easily <a href="https://github.com/RareTC/makeme"><img alt="View Here" src="https://img.shields.io/badge/View%20on-GitHub-brightgreen"></a>, DSA's, and looking to land my next role in this exciting field!
+ Currently I am working on a new Side Project to generate README's easily <a href="https://github.com/RareTC/makeme#readme"><img alt="View Here" src="https://img.shields.io/badge/MAKEME.md-orange"></a>, DSA's, and looking to land my next role in this exciting field!
  
