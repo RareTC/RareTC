@@ -1,5 +1,5 @@
 <div id="description" align="center">
- <img src="https://i.imgur.com/pKCxFJr.png" title="source: imgur.com" height="180px" width="100%"/>
+ <a href="https://imgur.com/YonK92N"><img src="https://i.imgur.com/YonK92N.png" title="source: imgur.com" /></a>
 
 <h1 align="center">Hi 👋, I'm Trevor</h1>
 <h3 align="center">An inquisitive developer eager to learn more.</h3>
